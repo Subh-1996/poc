@@ -1,0 +1,3 @@
+Source,Target,File Format,Load Type,Connection String,File Location,Multiline,Separator,Header
+Flat File,dbo.sample_json,json,Full,,dbfs:/FileStore/shared_uploads/subhash.singh@evalueserve.com/Flat_Files/sample_json.json,True,,,
+Flat File,dbo.sample2_json,json,Full,,dbfs:/FileStore/shared_uploads/subhash.singh@evalueserve.com/Flat_Files/config_json.json,True,,,
