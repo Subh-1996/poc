@@ -1,0 +1,8 @@
+Load_Index : 1
+Table : dbo.sample_json
+Load Type : Flat File
+File Format : json
+File Directoy : C:\Users\subha\OneDrive\Desktop\
+File Name : sample_yaml.yml
+multiline : yes
+Indentation : 
